@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fibrebackground"
+    >
+    
+    
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="FIBRE OPTIC DICTIONARY"
+    />
+   
+   <ScrollView 
+    android:layout_width="fill_parent"
+    android:layout_height="200dp"
+    >
+    
+   <LinearLayout android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical"> 
+   
+   <Button android:id="@+id/bsw"
+           android:text="Search By Word"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:textSize="25dp">
+   </Button>
+   
+   <Button android:id="@+id/bsc"
+           android:text="Search By Category"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:textSize="25dp">
+   </Button>
+   
+   <Button android:id="@+id/bhistory"
+           android:text="History"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:textSize="25dp">
+   </Button>
+   
+   <Button android:id="@+id/bfav"
+           android:text="Favorites"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:textSize="25dp">
+   </Button>
+   
+   <Button android:id="@+id/binfo"
+           android:text="Info"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:textStyle="bold"
+           android:textSize="25dp">
+   </Button>
+   </LinearLayout>        
+  </ScrollView> 
+    
+</LinearLayout>

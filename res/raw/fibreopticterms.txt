@@ -1,0 +1,110 @@
+Absorption: That portion of fibre optic attenuation resulting of conversion of optical power to heat.
+Analogue: Signals that are continually changing, as opposed to being digitally encoded.
+Attenuation Coefficient: Characteristic of the attenuation of an optical fibre per unit length, in dB/km.
+Attenuation: The reduction in optical power as it passes along a fibre, usually expressed in decibels (dB). See optical loss.
+Attenuator: A device that reduces signal power in a fibre optic link by inducing loss.
+Average power: The average over time of a modulated signal.
+Back reflection, optical return loss: Light reflected from the cleaved or polished end of a Fibre caused by the difference of refractive indices of air and glass. Typically 4% of the incident light. Expressed in dB relative to incident power.
+Backscattering: The scattering of light in a fibre back toward the source, used to make OTDR measurements. Bandwidth: The range of signal frequencies or bit rate within which a fibre optic component, link or network will operate.
+Bending loss, microbending loss: Loss in fibre caused by stress on the fibre bent around a restrictive radius.
+Bit-error rate (BER): The fraction of data bits transmitted that are received in error.
+Bit: An electrical or optical pulse that carries information.
+Buffer: A protective coating applied directly on the Fibre.
+Cable: One or more fibres enclosed in protective coverings and strength members.
+Cable Plant, Fibre Optic: The combination of fibre optic cable sections, connectors and splices forming the optical path between two terminal devices.
+CATV: An abbreviation for Community Antenna Television or cable TV.
+Chromatic dispersion: The temporal spreading of a pulse in an optical waveguide caused by the wavelength dependence of the velocities of light.
+Cladding: The lower refractive index optical coating over the core of the fibre that "traps" light into the core. Connector: A device that provides for a demountable connection between two fibres or a fibre and an active device and provides protection for the fibre.
+Core: The centre of the optical fibre through which light is transmitted.
+Coupler: An optical device that splits or combines light from more than one Fibre.
+Cutback method: A technique for measuring the loss of bare fibre by measuring the optical power transmitted through a long length then cutting back to the source and measuring the initial coupled power.
+Cutoff wavelength: The wavelength beyond which singlemode Fibre only supports one mode of propagation.
+dBm: Optical power referenced to 1 milliwatt.
+Decibel (dB): A unit of measurement of optical power which indicates relative power on a logarithmic scale, sometimes called dBr. dB=10 log ( power ratio)
+Detector: A photodiode that converts optical signals to electrical signals.
+Digital: Signals encoded into discrete bits.
+Dispersion: The temporal spreading of a pulse in an optical waveguide. May be caused by modal or chromatic effects.
+EDFA: Erbium-doped Fibre amplifier, an all optical amplifier for 1550 nm SM transmission systems.
+Edge-emitting diode (E-LED): A LED that emits from the edge of the semiconductor chip, producing higher power and narrower spectral width.
+End finish: The quality of the end surface of a fibre prepared for splicing or terminated in a connector.
+Equilibrium modal distribution (EMD): Steady state modal distribution in multimode Fibre, achieved some distance from the source, where the relative power in the modes becomes stable with increasing distance.
+ESCON: IBM standard for connecting peripherals to a computer over fibre optics. Acronym for Enterprise System Connection.
+Excess loss: The amount of light lost in a coupler, beyond that inherent in the splitting to multiple output fibres.
+Fibre Amplifier: an all optical amplifier using erbium or other doped fibres and pump lasers to increase signal output power without electronic conversion.
+Fibre Distributed Data Interface, FDDI: 100 Mb/s ring architecture data network.
+Ferrule: A precision tube which holds a Fibre for alignment for interconnection or termination. A ferrule may be part of a connector or mechanical splice.
+Fibre tracer: An instrument that couples visible light into the Fibre to allow visual checking of continuity and tracing for correct connections.
+Fibre identifier: A device that clamps onto a Fibre and couples light from the fibre by bending, to identify the fibre and detect high speed traffic of an operating link or a 2 kHz tone injected by a test source.
+Fibre optics: Light transmission through flexible transmissive fibres for communications or lighting.
+FO: Common abbreviation for "Fibre optic."
+Fresnel reflection, back reflection, optical return loss: Light reflected from the cleaved or polished end of a Fibre caused by the difference of refractive indices of air and glass. Typically 4% of the incident light.
+Fusion splicer: An instrument that splices fibres by fusing or welding them, typically by electrical arc.
+Graded index (GI): A type of multimode fibre which used a graded profile of refractive index in the core material to correct for dispersion.
+Index of refraction: A measure of the speed of light in a material.
+Index matching fluid: A liquid used of refractive index similar to glass used to match the materials at the ends of two fibres to reduce loss and back reflection.
+Index profile: The refractive index of a fibre as a function of cross section.
+Insertion loss: The loss caused by the insertion of a component such as a splice or connector in an optical Fibre.
+Jacket: The protective outer coating of the cable.
+Jumper cable: A short single Fibre cable with connectors on both ends used for interconnecting other cables or testing.
+Laser diode, ILD: A semiconductor device that emits high powered, coherent light when stimulated by an electrical current. Used in transmitters for singlemode Fibre links.
+Launch cable: A known good Fibre optic jumper cable attached to a source and calibrated for output power used used as a reference cable for loss testing. This cable must be made of Fibre and connectors of a matching type to the cables to be tested.
+Light-emitting diode, LED: A semiconductor device that emits light when stimulated by an electrical current. Used in transmitters for multimode Fibre links.
+Link, Fibre optic: A combination of transmitter, receiver and Fibre optic cable connecting them capable of transmitting data. May be Analogue or digital.
+Long wavelength: A commonly used term for light in the 1300 and 1550 nm ranges.
+Loss,optical: The amount of optical power lost as light is transmitted through Fibre, splices, couplers, etc.
+Loss budget: The amount of power lost in the link. Often used in terms of the maximum amount of loss that can be tolerated by a given link.
+Margin: The additional amount of loss that can be tolerated in a link.
+Mechanical splice: A semi-permanent connection between two fibres made with an alignment device and index matching fluid or adhesive.
+Micron (µm): A unit of measure, 10-6 m, used to measure wavelength of light.
+Microscope, Fibre optic inspection: A microscope used to inspect the end surface of a connector for flaws or contamination or a fibre for cleave quality.
+Modal dispersion: The temporal spreading of a pulse in an optical waveguide caused by modal effects.
+Mode field diameter: A measure of the core size in singlemode fibre.
+Mode filter: A device that removes optical power in higher order modes in fibre.
+Mode scrambler: A device that mixes optical power in Fibre to achieve equal power distribution in all modes. Mode stripper: A device that removes light in the cladding of an optical fibre.
+Mode: A single electromagnetic field pattern that travels in Fibre.
+Multimode Fibre: A Fibre with core diameter much larger than the wavelength of light transmitted that allows many modes of light to propagate. Commonly used with LED sources for lower speed, short distance links.
+Nanometer (nm): A unit of measure , 10-9 m, used to measure the wavelength of light.
+Network: A system of cables, hardware and equipment used for communications.
+Numerical aperture (NA): A measure of the light acceptance angle of the Fibre.
+Optical amplifier: A device that amplifies light without converting it to an electrical signal.
+Optical Fibre: An optical waveguide, comprised of a light carrying core and cladding which traps light in the core.
+Optical loss test set (OLTS): An measurement instrument for optical loss that includes both a meter and source.
+Optical power: The amount of radiant energy per unit time, expressed in linear units of Watts or on a logarithmic scale, in dBm (where 0 dB = 1 mW) or dB* (where 0 dB*=1 microwatt).
+Optical return loss, back reflection: Light reflected from the cleaved or polished end of a Fibre caused by the difference of refractive indices of air and glass. Typically 4% of the incident light. Expressed in dB relative to incident power.
+Optical switch: A device that routes an optical signal from one or more input ports to one or more output ports.
+Optical time domain reflectometer (OTDR): An instruments that used backscattered light to find faults in optical fibre and infer loss.
+Overfilled launch: A condition for launching light into the fibre where the incoming light has a spot size and NA larger than accepted by the fibre, filling all modes in the Fibre.
+Photodiode: A semiconductor that converts light to an electrical signal, used in Fibre optic receivers.
+Pigtail: A short length of fibre attached to a fibre optic component such as a laser or coupler.
+Plastic optical Fibre (POF): An optical fibre made of plastic.
+Plastic-clad silica (PCS) Fibre: A fibre made with a glass core and plastic cladding.
+Power budget: The difference (in dB) between the transmitted optical power (in dBm) and the receiver sensitivity (in dBm).
+Power meter, Fibre optic: An instrument that measures optical power emanating form the end of a fibre.
+Preform: The large diameter glass rod from which fibre is drawn.
+Receive cable: A known good fibre optic jumper cable attached to a power meter used as a reference cable for loss testing. This cable must be made of fibre and connectors of a matching type to the cables to be tested.
+Receiver: A device containing a photodiode and signal conditioning circuitry that converts light to an electrical signal in fibre optic links.
+Refractive index: A property of optical materials that relates to the velocity of light in the material.
+Repeater, regenerator: A device that receives a fibre optic signal and regenerates it for retransmission, used in very long fibre optic links.
+Scattering: The change of direction of light after striking small particles that causes loss in optical fibres.
+Short wavelength: A commonly used term for light in the 665, 790, and 850 nm ranges.
+Singlemode Fibre: A Fibre with a small core, only a few times the wavelength of light transmitted, that only allows one mode of light to propagate. Commonly used with laser sources for high speed, long distance links.
+Source: A laser diode or LED used to inject an optical signal into Fibre.
+Splice (fusion or mechanical): A device that provides for a connection between two fibres, typically intended to be permanent.
+Splitting ratio: The distribution of power among the output fibres of a coupler.
+Steady state modal distribution: Equilibrium modal distribution (EMD) in multimode Fibre, achieved some distance from the source, where the relative power in the modes becomes stable with increasing distance.
+Step index Fibre: A multimode fibre where the core is all the same index of refraction.
+Surface emitter LED: A LED that emits light perpendicular to the semiconductor chip. Most LEDs used in data communications are surface emitters.
+Talkset, Fibre optic: A communication device that allows conversation over unused fibres.
+Termination: Preparation of the end of a fibre to allow connection to another fibre or an active device, sometimes also called "connectorisation".
+Test cable: A short single fibre jumper cable with connectors on both ends used for testing. This cable must be made of fibre and connectors of a matching type to the cables to be tested.
+Test kit: A kit of fibre optic instruments, typically including a power meter, source and test accessories used for measuring loss and power.
+Test source: A laser diode or LED used to inject an optical signal into fibre for testing loss of the fibre or other components.
+Total internal reflection: Confinement of light into the core of a fibre by the reflection off the core-cladding boundary.
+Transmitter: A device which includes a LED or laser source and signal conditioning electronics that is used to inject a signal into fibre.
+VCSEL: vertical cavity surface emitting laser, a type of laser that emits light vertically out of the chip, not out the edge.
+Visual fault locator: A device that couples visible light into the fibre to allow visual tracing and testing of continuity. Some are bright enough to allow finding breaks in fibre through the cable jacket.
+Watts: A linear measure of optical power, usually expressed in milliwatts (mW), microwatts (*W) or nanowatts (nW).
+Wavelength: A measure of the colour of light, usually expressed in nanometres (nm) or microns (*m).
+Wavelength division multiplexing (WDM): A technique of sending signals of several different wavelengths of light into the fibre simultaneously.
+Working margin: The difference (in dB) between the power budget and the loss budget (i.e. the excess power margin).
+

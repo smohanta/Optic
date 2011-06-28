@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- The name of the application. -->
+    <string name="app_name">Fibre optic Dictionary</string>
+
+    <!-- The label for the search results for this app (see searchable.xml for more details). -->
+    <string name="search_label">Fibre optic Dictionary</string>
+
+    <!-- The menu entry that invokes search. -->
+    <string name="menu_search">Search</string>
+
+    <!-- The description that will show up in the search settings for this source.  -->
+    <string name="settings_description">Definitions of terms</string>
+
+    <!-- General instructions in the main activity. -->
+    <string name="search_instructions">Press the menu button to look up a word</string>
+
+    <!-- Shown above search results when we receive a search request. -->
+    <string name="search_results">Search results for \'<xliff:g id="string">%s</xliff:g>\': </string>
+    
+    <string name="expandable_list_category">List of category</string>
+    <string name="menu_insert">Insert</string>
+    <string name="no_notes">Empty</string>
+</resources>
